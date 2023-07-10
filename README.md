@@ -23,7 +23,7 @@ SQL <-> Excel Converter is a simple Streamlit application that allows you to gen
 
 1. Run the Streamlit application:
     ```bash
-    python -m streamlit run .\app.py
+    python -m streamlit run .\Welcome.py
     ```
 
 2. Open your web browser and navigate to `http://localhost:8501` or the URL shown in your CLI.
