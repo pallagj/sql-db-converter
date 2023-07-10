@@ -11,7 +11,7 @@ SQL-to-Excel Converter is a simple Streamlit application that allows you to gene
 
 2. Move into the project directory:
     ```bash
-    cd SQL-to-Excel-Converter
+    cd sql-db-converter
     ```
 
 3. Install the necessary packages:
