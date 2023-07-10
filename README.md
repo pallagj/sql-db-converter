@@ -1,6 +1,6 @@
 # SQL DB  Converter to excel and from excel
 
-SQL-to-Excel Converter is a simple Streamlit application that allows you to generate Excel files from SQL database tables. The application connects to the database, runs SQLselect queries to get data from specified tables, and then exports the data into an Excel file.
+SQL <-> Excel Converter is a simple Streamlit application that allows you to generate Excel files from SQL database tables. The application connects to the database, runs SQLselect queries to get data from specified tables, and then exports the data into an Excel file.
 
 ## Installation
 
